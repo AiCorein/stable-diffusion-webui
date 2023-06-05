@@ -1,0 +1,166 @@
+{
+  "created_at": 1685973916.480358,
+  "webui": {
+    "remote": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "commit_hash": "b6af0a3809ea869fb180633f9affcae4b199ffcf",
+    "commit_date": 1685644514,
+    "branch": "master"
+  },
+  "extensions": {
+    "a1111-sd-webui-locon": {
+      "name": "a1111-sd-webui-locon",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/a1111-sd-webui-locon",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://jihulab.com/xiaolxl_pub/a1111-sd-webui-locon.git",
+      "commit_hash": "161ba4053943ca2e0793835a87b2049e574c7634",
+      "commit_date": 1685116902,
+      "branch": "main",
+      "have_info_from_repo": true
+    },
+    "a1111-sd-webui-tagcomplete": {
+      "name": "a1111-sd-webui-tagcomplete",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/a1111-sd-webui-tagcomplete",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://jihulab.com/xiaolxl_pub/a1111-sd-webui-tagcomplete.git",
+      "commit_hash": "1cb4fc8f2572545418fe988edd8815a20e6b0e28",
+      "commit_date": 1685137519,
+      "branch": "main",
+      "have_info_from_repo": true
+    },
+    "a1111-stable-diffusion-webui-vram-estimator": {
+      "name": "a1111-stable-diffusion-webui-vram-estimator",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/a1111-stable-diffusion-webui-vram-estimator",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git",
+      "commit_hash": "bf8797a3f3286ed5fd0519d9ad3650e30b84ef91",
+      "commit_date": 1677987753,
+      "branch": "master",
+      "have_info_from_repo": true
+    },
+    "sd-face-editor": {
+      "name": "sd-face-editor",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/sd-face-editor",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://jihulab.com/xiaolxl_pub/sd-face-editor.git",
+      "commit_hash": "3647f74a99b79a79b8ec9c08ba25d7b4bc46dda9",
+      "commit_date": 1685544070,
+      "branch": "main",
+      "have_info_from_repo": true
+    },
+    "sd-webui-controlnet": {
+      "name": "sd-webui-controlnet",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/sd-webui-controlnet",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://jihulab.com/xiaolxl_pub/sd-webui-controlnet.git",
+      "commit_hash": "7b2bf668ee4e0ce63dd67c828ea20c064e719796",
+      "commit_date": 1685763986,
+      "branch": "main",
+      "have_info_from_repo": true
+    },
+    "sd-webui-infinite-image-browsing": {
+      "name": "sd-webui-infinite-image-browsing",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/sd-webui-infinite-image-browsing",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://github.com/zanllp/sd-webui-infinite-image-browsing",
+      "commit_hash": "fec87ef97ea2fc898603a7936484b96e842ea386",
+      "commit_date": 1685896430,
+      "branch": "main",
+      "have_info_from_repo": true
+    },
+    "sd-webui-supermerger": {
+      "name": "sd-webui-supermerger",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/sd-webui-supermerger",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://jihulab.com/xiaolxl_pub/sd-webui-supermerger.git",
+      "commit_hash": "7398bd8d5b16330c45e0ad24507bf2d4abbd18b1",
+      "commit_date": 1684857468,
+      "branch": "main",
+      "have_info_from_repo": true
+    },
+    "sd_dreambooth_extension": {
+      "name": "sd_dreambooth_extension",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/sd_dreambooth_extension",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://jihulab.com/xiaolxl_pub/sd_dreambooth_extension.git",
+      "commit_hash": "926ae204ef5de17efca2059c334b6098492a0641",
+      "commit_date": 1680275565,
+      "branch": "main",
+      "have_info_from_repo": true
+    },
+    "stable-diffusion-webui-localization-zh_CN": {
+      "name": "stable-diffusion-webui-localization-zh_CN",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions/stable-diffusion-webui-localization-zh_CN",
+      "enabled": true,
+      "is_builtin": false,
+      "remote": "https://jihulab.com/xiaolxl_pub/stable-diffusion-webui-localization-zh_CN.git",
+      "commit_hash": "582ca24da2f5ca7a155b1950471a61d38b1c9b62",
+      "commit_date": 1680159974,
+      "branch": "main",
+      "have_info_from_repo": true
+    },
+    "LDSR": {
+      "name": "LDSR",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions-builtin/LDSR",
+      "enabled": true,
+      "is_builtin": true,
+      "remote": null,
+      "commit_hash": "",
+      "commit_date": null,
+      "branch": null,
+      "have_info_from_repo": false
+    },
+    "Lora": {
+      "name": "Lora",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions-builtin/Lora",
+      "enabled": true,
+      "is_builtin": true,
+      "remote": null,
+      "commit_hash": "",
+      "commit_date": null,
+      "branch": null,
+      "have_info_from_repo": false
+    },
+    "ScuNET": {
+      "name": "ScuNET",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions-builtin/ScuNET",
+      "enabled": true,
+      "is_builtin": true,
+      "remote": null,
+      "commit_hash": "",
+      "commit_date": null,
+      "branch": null,
+      "have_info_from_repo": false
+    },
+    "SwinIR": {
+      "name": "SwinIR",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions-builtin/SwinIR",
+      "enabled": true,
+      "is_builtin": true,
+      "remote": null,
+      "commit_hash": "",
+      "commit_date": null,
+      "branch": null,
+      "have_info_from_repo": false
+    },
+    "prompt-bracket-checker": {
+      "name": "prompt-bracket-checker",
+      "path": "/home/cs2020/anaconda3/lib/openjpeg-2.8/models/extensions-builtin/prompt-bracket-checker",
+      "enabled": true,
+      "is_builtin": true,
+      "remote": null,
+      "commit_hash": "",
+      "commit_date": null,
+      "branch": null,
+      "have_info_from_repo": false
+    }
+  },
+  "name": "backup_2023-06-05"
+}

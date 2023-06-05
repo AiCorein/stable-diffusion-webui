@@ -13,7 +13,6 @@ __pycache__
 /gfpgan/weights/*.pth
 /ui-config.json
 /outputs
-/config.json
 /log
 /webui.settings.bat
 /embeddings
@@ -28,12 +27,10 @@ __pycache__
 notification.mp3
 /SwinIR
 /textual_inversion
-.vscode
 /extensions
 /test/stdout.txt
 /test/stderr.txt
 /cache.json*
-/config_states/
 /node_modules
 /package-lock.json
 /.coverage*
